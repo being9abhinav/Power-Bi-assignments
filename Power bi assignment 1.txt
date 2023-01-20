@@ -1,0 +1,63 @@
+1. What do you mean by BI? Explain.
+Ans. BI stands for Business Intelligence. It refers to a set of methods,technologies and tools that are used to collect,store,analyze and 
+     present data in order to support business decision making.
+	
+     BI systems typically includes a range of tools and technologies such as data warehousing, data mining, data visualization ,reporting
+     and analytics.These tools are used to extract, transform, and load data from various sources into a centralized repository, where
+     it can be analyzed and presented in a meaningful way to support business decision-making.
+
+		
+2. How Power-BI helps in BI, and how does it help Analysts? Explain.
+Ans. Power Bi is a business intelligence platform that is developed by Microsoft that allows the analyst to connect to, visualise and share data.
+
+     Power BI allows analysts to connect to multiple data sources and import data into a data model. After the data is imported, analysts 
+     can use the built-in visualizations, such as charts, tables, and maps, to create interactive dashboards and reports. 
+     
+     The visualizations can be customized and tailored to the specific needs of the business. This allows analysts to quickly gain insights and identify trends in the data.
+
+ 
+3. Explain Descriptive analytics?
+Ans.Descriptive analytics is a type of business intelligence that is used to describe, summarize, and understand historical data. It is used to answer questions about what 
+    has happened in the past and to provide a general understanding of the current state of the business.
+
+    The main goal of descriptive analytics is to provide insights into the past performance of the business. It is used to identify patterns, 
+    trends, and relationships in the data. This information can be used to improve decision-making and to develop strategies for the future.
+
+
+4. Explain Predictive analytics?
+Ans. Predictive analytics is a type of business intelligence that uses statistical and machine learning techniques to analyze historical 
+	data and make predictions about future events. 
+
+
+5. Explain perspective analytics?
+Ans. Perspective analytics, also known as prescriptive analytics, is a type of advanced business intelligence that uses a combination of data, 
+     statistical models, and optimization techniques to generate recommendations and suggest specific actions to improve business outcomes. 
+
+
+6. Write five real-life questions that PowerBi can solve.
+Ans. Five real-life questions that PowerBi can solve are as follows:-
+       1. How is our marketing campaign performing, and which channels are driving the most conversions?
+          	Power BI can be used to connect to marketing data, create visualizations such as line charts and bar charts to show campaign performance 
+          	over time, and also use data mining techniques to identify patterns and relationships in the data to understand which channels are driving 
+          	the most conversions.
+
+       2.  How is the website traffic performing, and which pages are the most popular?
+		Power BI can be used to connect to website analytics data, create visualizations such as line charts and heat maps to show website traffic over time, 
+		and also use data mining techniques to identify patterns and relationships in the data to understand which pages are the most popular.
+
+       3. What is our inventory turnover rate, and how does it compare to industry standards?
+		Power BI can be used to connect to inventory data, create visualizations such as line charts and bar charts to show inventory turnover rate over time, 
+		and also use data mining techniques to identify patterns and relationships in the data to understand how it compares to industry standards.
+  
+	4. How has our sales performance been over the last quarter, and what are the key drivers of that performance?
+		Power BI can be used to connect to sales data and create visualizations such as charts and tables to show sales performance over time, and also use data mining techniques
+ 		to identify patterns and relationships in the data to understand what factors are driving sales.
+
+      5. How many customer complaints have we received in the last month, and what are the most common issues customers are complaining about?
+		Power BI can be used to connect to customer complaint data, create visualizations such as bar charts and pie charts to show the number of 
+		complaints over time, and also use data mining techniques to identify patterns and relationships in the data to understand the most common issues customers are complaining about. 
+
+
+
+
+     It goes beyond descriptive and predictive analytics, which provide insights and predictions, by providing specific recommendations on what actions to take.
