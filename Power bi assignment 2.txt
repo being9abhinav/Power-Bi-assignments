@@ -1,0 +1,79 @@
+1. Explain the advantages of Natural Queries in PowerBi with an example?
+ANs. Natural queries, also known as natural language queries, allow users to interact with Power BI using natural language, rather than traditional SQL or other programming languages. 
+     This makes it easier for non-technical users to access and analyze data, as they do not need to know how to write complex SQL queries.
+
+     An example of a natural query in Power BI could be "Show me the total sales by category for the last quarter." This query would retrieve the data from the data source,
+     aggregate it and show the total sales by category for the last quarter in a chart format.
+
+     Overall, natural queries in Power BI are a powerful feature that can help to make data more accessible and actionable for users of all skill levels, 
+     and promote better decision-making across an organization.
+
+
+2. Explain Web Front End(WFE) cluster from Power BI Service Architecture?
+Ans. In the Power BI service architecture, a Web Front End (WFE) cluster is a group of servers that handle the incoming web traffic and provide the 
+     web interface for the Power BI service. The WFE servers handle the request from users and manage the authentication and authorization process. 
+
+     They also handle the rendering of the pages, including the dashboards, reports, and other visualizations, and provide the web interface for the service.
+
+
+3. Explain Back End cluster from Power BI Service Architecture?
+Ans. The Back End cluster is an important component of the Power BI service architecture, which handles the data processing and data analysis, generates 
+     the visualizations and communicates with other components such as data sources, Azure Cache for Redis, Azure SQL Database,
+     Azure Data Lake Storage. 
+
+     This allows for efficient data processing and data analysis, and ensures the smooth functioning of the Power BI service.
+
+4.  What ASP.NET component does in Power BI Service Architecture?
+Ans. ASP.NET is a web application framework developed by Microsoft that is used in the Power BI service architecture to handle the web requests 
+     and provide the web interface for the Power BI service.
+
+    In Power BI, the ASP.NET component is responsible for handling the web requests and managing the session state for the users. The ASP.NET component is used to handle the requests from the web front-end (WFE) servers and manage the session state for the users. 
+    It also handles the authentication and authorization of the users, and manages the access to the data.
+
+5.  Compare Microsoft Excel and PowerBi Desktop on the following features:
+    Data import :- Both Microsoft Excel and Power BI Desktop allow users to import data from various sources such as CSV, Excel, SQL Server, and others. However, 
+                   Power BI Desktop has more options for data import and can connect to a wider range of data sources such as Azure, SharePoint, and other cloud services.
+   
+    Data transformation:-  Both Excel and Power BI Desktop have tools for data transformation such as pivot tables and data reshaping. However, Power BI Desktop has more advanced data transformation capabilities, such as the ability 
+                           to create calculated columns and tables, and the ability to use the Power Query editor for more complex data transformations.
+   
+    Modeling:-  Both Excel and Power BI Desktop allow users to create data models and relationships between tables. However, Power BI Desktop has more advanced modeling capabilities, such as the ability to create calculated tables 
+                and columns, and the ability to use the Power Pivot editor for more complex data modeling.
+   
+    Reporting:- Both Excel and Power BI Desktop allow users to create reports and visualizations. However, Power BI Desktop has more advanced reporting capabilities, such as the ability to create interactive reports and dashboards, 
+		    and the ability to share and collaborate on reports.
+    
+    Server Deployment:- Power BI Desktop allows users to publish reports and dashboards to the Power BI service, which can be accessed by others in an organization. Excel does not have a built-in server deployment capability,
+                        but reports and models can be shared through OneDrive or SharePoint.
+  
+    Convert Models:-  Power BI Desktop can convert the models created in Excel to Power BI Desktop with the help of Power Query Editor. 
+   			    Excel cannot convert the models to Power BI.
+    
+    Cost:-  Microsoft Excel is a part of the Microsoft Office suite, which can be purchased as a one-time purchase or as a subscription with Microsoft Office 365. Power BI Desktop is a free tool, but there is a cost associated with 
+            using the Power BI service, which is required to share and collaborate on reports and dashboards.
+
+6.  List 20 data sources supported by Power Bi desktop.
+Ans.  SQL Server
+	Microsoft Excel
+	SharePoint List
+ 	Access
+	Oracle
+	MySQL
+	PostgreSQL
+	IBM DB2
+	Teradata
+	Sybase
+	SAP HANA
+	SAP Business Objects
+	Salesforce
+	Dynamics 365
+	Google Analytics
+	Azure SQL Database
+	Azure Data Lake Storage
+	Azure Blob Storage
+	Azure Cosmos DB
+	Azure Analysis
+
+
+
+
